@@ -1,0 +1,19 @@
+
+.badge-container {
+  display: inline-flex;
+  gap: 4px;
+  margin-left: 5px;
+  vertical-align: middle;
+}
+
+.badge-icon {
+  width: 24px;
+  height: 24px;
+}
+
+.badge-chat-icon {
+  width: 16px;
+  height: 16px;
+  margin-right: 4px;
+  vertical-align: middle;
+}

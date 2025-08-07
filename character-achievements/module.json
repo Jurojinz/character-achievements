@@ -1,0 +1,16 @@
+{
+  "name": "character-achievements",
+  "title": "Character Achievements",
+  "description": "Permite configurar achievements e mostrar badges nos personagens e no chat.",
+  "version": "1.0.0",
+  "author": "Seu Nome",
+  "minimumCoreVersion": "13",
+  "compatibleCoreVersion": "13",
+  "scripts": ["main.js", "settings.js"],
+  "styles": ["styles/styles.css"],
+  "packs": [],
+  "languages": [],
+  "url": "https://github.com/seu-usuario/character-achievements",
+  "manifest": "https://seu-usuario.github.io/character-achievements/module.json",
+  "download": "https://seu-usuario.github.io/character-achievements/character-achievements.zip"
+}
